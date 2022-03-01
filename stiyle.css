@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color:deepskyblue;
+}
+h1{
+    font-size: 35px;
+}
+.line{
+    width: 100px;
+    height: 7px;
+    background-color: crimson;
+    margin: 25px auto;
+}
+img:hover{
+    transform: scale(0.9);
+}
